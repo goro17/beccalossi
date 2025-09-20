@@ -1,5 +1,5 @@
 [project]
-name = "beccalossi-temp"
+name = "beccalossi"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=6.30.1",
     "loguru>=0.7.3",
     "lxml==5.4",
+    "openpyxl>=3.1.5",
     "seleniumbase>=4.36.4",
     "soccerdata>=1.8.2",
 ]

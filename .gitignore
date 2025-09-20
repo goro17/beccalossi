@@ -11,4 +11,3 @@ wheels/
 
 # Ingested data
 .cache/*
-datasets/*
